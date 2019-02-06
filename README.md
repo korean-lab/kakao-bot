@@ -9,12 +9,14 @@ Optionally, if you don't have your own extra phone. You can use [textPlus](https
 
 
 ### Example ###
-<span>
-  <image src="/1.png"/>
-  <div>/help 명령어</div>
-</span>
+<div style="display: inline-block">
+  <span>
+    <image src="/1.png"/>
+    <div>/help 명령어</div>
+  </span>
 
-<span>
-  <image src="/2.png"/>
-  <div>ㄷㅇ명령어</div>
-</span>
+  <span>
+    <image src="/2.png"/>
+    <div>ㄷㅇ명령어</div>
+  </span>
+</div>
