@@ -21,3 +21,6 @@ Optionally, if you don't have your own extra phone. You can use [textPlus](https
     <div>ㄷㅇ명령어</div>
   </span>
 </div>
+
+
+@license
