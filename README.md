@@ -1,4 +1,4 @@
-# kakao-bot
+# koreanlab-bot
 This is Korean Bot.
 
 ### Preparation ###
